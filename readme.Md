@@ -23,6 +23,10 @@ pip install psutil
 
 -The powerstat tool is used to measure power consumption on Linux systems. Make sure it is installed and accessible from the command line.
 
+-This are the commands for installation
+sudo apt-get update
+sudo apt-get install powerstat
+
 # Code Overview
 The code provided in the Python script (measure_power_consumption.py) allows you to measure the power consumption of a specified application for a given duration using the powerstat utility.
 
