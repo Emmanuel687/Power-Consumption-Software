@@ -11,11 +11,15 @@ https://www.python.org/downloads/
 
 2.Install the required psutil library using the provided pip command.
 
+pip install psutil
+![Alt text](pip.png)
+
+
+
+
 3.Run the Scripts with the following prompts.
 
-pip install psutil
 
-![Alt text](pip.png)
 
 
 # How it works
