@@ -10,6 +10,7 @@ https://www.python.org/downloads/
 
 
 2.Install the required psutil library using the provided pip command.
+
 pip install psutil
 
 ![Alt text](pip.png)
