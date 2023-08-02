@@ -15,7 +15,7 @@ pip install psutil
 ![Alt text](pip.png)
 
 
-3.Run the Scripts with the following prompts.
+3.To run the program enter the following prompts in the terminal.
 
 python power_consumption.py
 
