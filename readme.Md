@@ -31,7 +31,7 @@ pip install psutil
 
 -> Note: The accuracy of the estimation may vary depending on the system and CPU capabilities. Also, the power consumption measurement on Windows might be limited compared to macOS and Linux systems.
 
-![Alt text](<Screenshot (19).png>)
+![Alt text](<Screenshot (20).png>)
 
 # License
 This script is provided under the MIT License. Feel free to use and modify it according to your needs.
