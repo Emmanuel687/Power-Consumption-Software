@@ -40,5 +40,11 @@ Below is an example.
 
 ![Alt text](<Screenshot (20).png>)
 
+# Contact
+Incase of any questions feel free to reach me 
+
+Email:- koechemmanuel2002@gmail.com
+Phone Contact :- 0790064309
+
 # License
 This script is provided under the MIT License. Feel free to use and modify it according to your needs.
