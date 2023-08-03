@@ -21,10 +21,8 @@ pip install psutil
 python power_consumption.py
 
 
-
-
 # How it works
-1.The script prompts you to enter the name of the target application you want to measure.
+1.The script prompts you to enter the name of the target application you want to measure. for example chrome.exe in windows
 
 2.Next, it asks for the measurement duration in seconds. The longer the duration, the more accurate the estimation.
 
